@@ -1,5 +1,5 @@
 name: Sweep Issue
-title: 'Sweep: '
+title: 'Fix bug in <FILE> causing <SPECIFIC ISSUE>'
 description: For small bugs, features, refactors, and tests to be handled by Sweep, an AI-powered junior developer.
 labels: sweep
 body:
